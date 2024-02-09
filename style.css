@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins);
+
+body{
+    font-family: 'Poppins';
+}
+
+.nav-btn{
+    display: flex;
+    justify-content: flex-end;
+    background-color: #ffffff;
+    border-bottom: solid;
+    border-color: #f6f6f6;
+    margin: -8px -8px;
+}
+
+.nav-btn p{
+    padding: 0px 10px;
+}
+
+.nav-btn .logo{
+    margin-right: 65%;
+}
+
+.nav-btn .cntct-btn{
+    margin-right: 20px;
+}
+
